@@ -16,7 +16,7 @@ This repository contains an easy-to-use Excel Procurement Dashboard for tracking
 - Filter and analyze specific orders, suppliers, or time periods
 - Expand with additional metrics if required
 
-## How to Use
+# How to Use
 
 1. **Download or clone** this repository.  
 2. **Open** the Excel file.  
@@ -24,7 +24,7 @@ This repository contains an easy-to-use Excel Procurement Dashboard for tracking
 4. **Review the dashboard:** Check charts, summaries, and performance indicators.  
 5. **Customize:** Add new charts, KPIs, or automate with Excel formulas as needed.
 
-## 💡 Use Cases
+# 💡 Use Cases
 
 - Small to mid-sized procurement teams.
 - Initial spend analysis before implementing ERP tools.
@@ -32,3 +32,8 @@ This repository contains an easy-to-use Excel Procurement Dashboard for tracking
 - Training or demonstration purposes.
 
 This project is free for personal and educational use. Feel free to fork, modify, and adapt it to your own workflows.
+
+# Dashboard 
+
+![Screenshot 2025-06-15 133110](https://github.com/user-attachments/assets/27ae51c6-fc60-40a5-982a-0bc51cf86ef7)
+
